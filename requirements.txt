@@ -20,9 +20,3 @@ dnspython
 python-math
 psutil==5.9.4
 Pillow
-shazamio
-wget
-ffmpeg
-ffprobe==0.5
-ffmpeg-python==0.2.0
-ffmpeg==1.4
