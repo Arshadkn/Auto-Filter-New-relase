@@ -20,6 +20,5 @@ dnspython
 python-math
 psutil==5.9.4
 Pillow
-yt_dlp
 shazamio
 wget
