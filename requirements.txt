@@ -23,4 +23,4 @@ Pillow
 shazamio
 wget
 ffmpeg
-VideosSearch
+youtube_search_python
