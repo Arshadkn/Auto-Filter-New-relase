@@ -23,5 +23,6 @@ Pillow
 shazamio
 wget
 ffmpeg
-youtube_search_python
-
+ffprobe==0.5
+ffmpeg-python==0.2.0
+ffmpeg==1.4
